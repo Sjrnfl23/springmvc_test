@@ -37,6 +37,7 @@ public class DurianController {
 		model.addAttribute("serverTime", formattedDate );
 		
 		return "durian/memberview";
+		
 	}
 
 	
